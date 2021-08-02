@@ -1,0 +1,140 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Template</title>
+
+    <style type="text/css">
+        td {padding: 10px}
+        table, tr, td {border: 1px solid #000}
+        table {border-collapse: collapse;width: 100%}
+        p {display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;}
+    </style>
+</head>
+<body style="font-family: Arial, Helvetica, sans-serif;padding: 0% 10%">
+    <div style="width: 100%;display: inline-flex;">
+    <div style="width: 10%">&nbsp;</div>
+    <div style="width: 80%">
+    <table style="border: none!important;">
+            <tr style="border: none!important;">
+                <th style="text-align: left;border: none!important;"><img src="http://localhost/resume_creator/image/img3.png"></th>
+                <th style="text-align: right;border: none!important;"><img src="http://localhost/resume_creator/image/img2.png"></th>
+            </tr>
+    </table>
+    <p style="text-align: center;font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;font-size: 40px">Zurich Resume Coversheet</p>
+    <br />
+    <table style="font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif, sans-serif;font-size: 22px;">
+        <tbody >
+            <tr style="border-top: 1px solid #000">
+                <td colspan="2" style="border-top: 1px solid #000;background:#44546a;color: #FFF;"><b>Supplier Details </b></td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Supplier Name</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Consultant Contact Details – Phone & Email</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Supplier Consultant Name</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr style="border-top: 1px solid #000">
+                <td colspan="2" style="border-top: 1px solid #000;background:#44546a;color: #FFF;width: 30%"><b>Job Details  </b></td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Job Number</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Job Title</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr style="border-top: 1px solid #000">
+                <td colspan="2" style="border-top: 1px solid #000;background:#44546a;color: #FFF;width: 30%"><b>Candidate Details </b></td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Candidate Name </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Has the candidate’s right to work in Australia been verified ?</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Payg or ABN</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Rate to candidate (inc super) </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Daily or Hourly </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Is the pay rate above the max rate set in the job positing? Yes or No </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Notice period or availability to commence  </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="width: 30%">Does the candidate have holidays planned in the next 3 months? </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr style="border-top: 1px solid #000">
+                <td colspan="2" style="border-top: 1px solid #000;background:#44546a;color: #FFF;width: 30%"><b>Relevant Candidate Experience  </b></td>
+            </tr>
+            <tr>
+                <td colspan="2">&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+    <br /> 
+    <br />
+    <div style="font-family: Arial, Helvetica, sans-serif!important;">
+        <div style="font-size: 24px"><b>EDUCATION:</b> </div><br />
+        <span style="font-size: 20px"> <p><strong>B.Tech</strong> Degree in Electronics and Instrumentation Engineering from Future Institute of Engineering and Management, Kolkata, West Bengal with First Division in 2009</p></span>
+    </div>
+    <br />
+    <br /> 
+    <div style="font-family: Arial, Helvetica, sans-serif!important;">
+        <div style="font-size: 24px"><b>CERTIFICATION:</b> </div><br />
+        <span style="font-size: 20px;font-family: Arial, Helvetica, sans-serif!important;"> <p>• ISTQB Foundation Level Certified.</p></span>
+    </div>
+    <br />
+    <br /> 
+    <div style="font-family: Arial, Helvetica, sans-serif!important;">
+        <div style="font-size: 24px"><b>SUMMARY:</b> </div><br />
+        <span style="font-size: 20px"> Supplier Details Supplier Name Consultant Contact Details – Phone & Email Supplier Consultant Name Job Details Job Number Job Title Candidate Details Candidate Name  Has the candidate’s right to work in Australia been verified ? Payg or ABN Rate to candidate (inc super)  Daily or Hourly  Is the pay rate above the max rate set in the job positing? Yes or No  Notice period or availability to commence  Does the candidate have holidays planned in the next 3 months?  Relevant Candidate Experience  </span>
+    </div>
+    <br />
+    <br /> 
+    <div style="font-family: Arial, Helvetica, sans-serif!important;">
+        <div style="font-size: 24px"><b>PROFESSIONAL EXPERIENCE:</b> </div>
+        <!-- <br />
+        <div style="font-size: 22px"><b>Enter date</b></div>
+        <div style="font-size: 22px"><b>Enter company</b></div>
+        <div style="font-size: 22px"><b>Enter Profession</b></div> -->
+        <br />
+        <span style="font-size: 20px"> Enter your text here</span>
+    </div>
+
+    <br />
+    <div style="font-family: Arial, Helvetica, sans-serif;font-size: 20px">
+        <br /><br /><div style="font-family: Arial, Helvetica, sans-serif!important;">
+ 		<div style="font-size: 24px"><b>SUMMARY::</b> </div>
+ 		<span style="font-size: 20px"> <p><br/>Supplier Details Supplier Name Consultant Contact Details – Phone &amp; Email Supplier Consultant Name Job Details Job Number Job Title Candidate Details Candidate Name  Has the candidate’s right to work in Australia been verified ? Payg or ABN Rate to candidate (inc super)  Daily or Hourly  Is the pay rate above the max rate set in the job positing? Yes or No  Notice period or availability to commence  Does the candidate have holidays planned in the next 3 months?  Relevant Candidate Experience   </p><p><strong>PROFESSIONAL EXPERIENCE:</strong> </p><p><strong>PROFESSIONAL EXPERIENCE:</strong> </p><p><strong>Project Experience:</strong></p><table><tr><td><p>Project Type</p></td><td><p>Enhancement of existing HCM application SuccessFactors and its payroll integration with Ramco to ease the daily struggle of HR and payroll area. </p></td></tr><tr><td><p>Employer </p></td><td><p>Lion Corporate, Australia</p></td></tr><tr><td><p>Date of joining</p></td><td><p>1<sup>st</sup> January,2021</p></td></tr><tr><td><p>Date of Relieving</p></td><td><p>Still in job</p></td></tr><tr><td><p>Testing Approach</p></td><td><p>Manual </p></td></tr><tr><td><p>Tools/Technology</p></td><td><p>Jira, SuccessFactors</p></td></tr><tr><td><p>Employment Type</p></td><td><p>Contract</p></td></tr><tr><td><p>Role</p></td><td><p>Test Analyst</p></td></tr></table><p><strong>Responsibilities:</strong></p><ul><li>Analysed business requirement to understand company policy and prepare test case and associate them with user-story in Jira, create defects and re-test them, attended review meetings and other team building activities.</li><li>Tested end to end new hire flow in SuccessFactors from creating position to requisition to Onboarding the candidate.</li><li>Tested semi-monthly, weekly and hourly payroll for full-time employees and contractors.</li><li>Analysed and tested daily work schedules to support a variety of shifts with break schedules that provide both paid/ unpaid breaks.</li><li>Tested the integration between SAP Success Factors / Employee Central and Ramco is implemented as an integration layer. Mapped Employee central fields to export Job Codes, Cost Centers, and Payroll data to Ramco, and import remuneration details to SF EC from Ramco.</li><li>Identify user acceptance testing (UAT) strategy, guide and help UAT tester to execute the testing.</li><li>Conducts and co-ordinates with technical developers on project weekly status meetings, to verify fixes, track deliverables, issue escalations, status reporting with business stakeholder communication and perform follow-up work to resolve issues</li></ul><table><tr><td><p>Project Type</p></td><td><p>Implement SFDC and migrate from legacy system to help businesses track customer activity, market to customers and many more services</p></td></tr><tr><td><p>Employer </p></td><td><p>Academy Point</p></td></tr><tr><td><p>Date of joining</p></td><td><p>15<sup>th</sup> October,2018</p></td></tr><tr><td><p>Date of Relieving</p></td><td><p>30<sup>th</sup> September,2020</p></td></tr><tr><td><p>Testing Approach</p></td><td><p>Manual and automation</p></td></tr><tr><td><p>Tools/Technology</p></td><td><p>PractiTest, Wrike, SFDC</p></td></tr><tr><td><p>Employment Type</p></td><td><p>Full Time</p></td></tr><tr><td><p>Role</p></td><td><p>Test Lead </p></td></tr></table><p><strong>Responsibilities:</strong></p><ul><li>Develop, execute, and maintain test designs, including test cases and test scripts. Develop and maintain test data as necessary to support testing efforts</li><li>Execution of Test scripts and Defects rising in PractiTest.</li><li>Mostly worked with Leads, Contacts, Campaigns, Accounts, Opportunities &amp; Report entities in Sales cloud application</li><li>Written the test scripts based on the Legacy Syatem to SFDC Migration Mapping sheets</li><li>Prepared the test data by using SQL queries, mappings and legacy applications and once loading the data from Staging to SFDC application, we used to test the functionality and GUI testing</li><li>Validating the Assignment rules of Leads</li><li>Report and manage defects to ensure that all issues are resolved according to established guidelines and expectations</li><li>Assist development team in troubleshooting and determining root-cause of application defects and issues</li><li>Document test results and communicate to Project Management and other Project Stakeholders</li><li>Work with upstream and downstream application teams to execute E2E test cases</li><li>Attend and collaborate in all stand ups, planning and design</li><li>Prepare Automation Framework using Selenium Webdriver in Java language. </li><li>Create Test cases using Element locators and TestNG Annotations.</li><li>Execute System Testing and run automated Regression suite after each cycle.</li><li>Gain user acceptance of test results. Preparing the Traceability Matrix between Requirements &amp; Test cases</li></ul><table><tr><td><p>Project Type</p></td><td><p>Implementation of Cloud-hosted SaaS application Microsoft Dynamics 365 in Enterprise Resource Planning (ERP) model with its Customer Relationship Management (CRM) platform to deliver the next generation business solution via Cloud.</p></td></tr><tr><td><p>Employer </p></td><td><h2>Hitachi Construction Machinery Australia</h2></td></tr><tr><td><p>Date of joining</p></td><td><p>30<sup>th</sup> April,2018</p></td></tr><tr><td><p>Date of Relieving</p></td><td><p>5<sup>th</sup> October,2020</p></td></tr><tr><td><p>Testing Approach</p></td><td><p>Manual </p></td></tr><tr><td><p>Tools/Technology</p></td><td><p>D365 ERP System</p></td></tr><tr><td><p>Employment Type</p></td><td><p>Contract</p></td></tr><tr><td><p>Role</p></td><td><p>Test Analyst </p></td></tr></table><p><strong>Responsibilities:</strong></p><ul><li>Understand Dynamics AX/D365 business process and requirements in Sales, Field Service, Customer Service and Marketing areas.</li><li>Identify extending CRM forms, extending entity models, customize reports working with technical developers who develops the interfaces to other applications.</li><li>Developed Test Plans, Test case, Traceability Matrices, Test Data, Test summary reports, Defect reports.</li><li>To Design, develop, and execute test cases as per the Business requirement document (BRD)</li><li>Actively involved in walkthroughs of the test scripts, peer reviews.</li><li>Conducted GUI testing, Functional testing, acceptance testing which involved verifying the results with expected results, which should complain with the predefined requirements.</li><li>Creation of Test Scripts, Updating of Test Plans and Documenting the tests to meet the functional, technical requirement</li><li>Tracking quality defects, identify bugs, isolate issue, report bug and work with developers, product managers and ensure they are resolved</li><li>Involved in defect management, bug reporting and tracking the defect status until closure.</li><li>Played a Key role in identifying the test cases for regression testing and executing Regression test scripts every quarter</li><li>Created the Knowledge Documents and Testing Documents.</li></ul><table><tr><td><p>Employer </p></td><td><h2>Cognizant Technology Solution</h2></td></tr><tr><td><p>Date of joining</p></td><td><p>30<sup>th</sup> Nov, 2009</p></td></tr><tr><td><p>Date of Relieving</p></td><td><p>7<sup>th</sup> Dec, 2018</p></td></tr><tr><td><p>Testing Approach</p></td><td><p>Manual &amp; Automation</p></td></tr><tr><td><p>Employment Type</p></td><td><p>Full Time</p></td></tr></table><p><strong>Projects &amp; Responsibilities during Cognizant:</strong></p><table><tr><td><p><strong>Cognizant Technology Solution</strong></p></td><td></td><td><p>Kolkata, West Bengal, India</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td><p>Project 1: Abbott </p></td><td></td></tr></table><table><tr><td><p>Project Type</p></td><td><p>Web based application on pharmaceuticals and medical devices</p></td></tr><tr><td><p>Client</p></td><td><p>Abbott Libre Diabetics Care</p></td></tr><tr><td><p>Organization</p></td><td><p>Abbott</p></td></tr><tr><td><p>Technology</p></td><td><p><strong>Salesforce Service Cloud</strong></p></td></tr><tr><td><p>Testing Approach</p></td><td><p>Manual </p></td></tr><tr><td><p>Tools Used</p></td><td><p>ALM</p></td></tr><tr><td><p>Role</p></td><td><p>Test Lead (Offshore)</p></td></tr><tr><td><p>Duration</p></td><td><p>February 2017 to December 2018</p></td></tr></table><p><strong>Project Description:</strong></p><p>Aim of the project was to prepare a single, global System for the Abbott Diabetic Customer Service Organization to manage customer call registration and tracking, trouble shoot customer complaints, and provide an interface with the product complaints investigation and reporting applications. </p><p><strong>Responsibilities:</strong></p><p>• To prepare proper Test Strategy and Test Plan to guide the team for a successful project delivery.</p><p>• Prepared scenarios and testcases to verify the functionality of Application.</p><p>• Involvement in requirements streamlining and supervise the preparation of Test Procedures, Test Scenarios, Cases, Test Data, execution of Test, analysing the results, reporting the defects and preparation of RTM.</p><p>• Involvement in solving Environmental problems along with Technical Support People.</p><p>• Preparation of weekly and monthly status reports.</p><p>• Successfully managed escalations, communications &amp; coordination between client, development teams and QA teams.</p><p><strong>Achievements:</strong></p><p>• Received appreciation from client after automating the Regression Suite for minimizing the exhaustive efforts of manual execution.</p><p>• Received ‘Best Performer of First Quarter 2017’ award for excellent performance.</p><table><tr><td><p><strong>Cognizant Technology Solution</strong></p></td><td></td><td><p>Amsterdam, Europe</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td><p>Project 2: Virgin Media </p></td><td></td></tr></table><table><tr><td><p>Project Type</p></td><td><p>Web based application on Communication devices</p></td></tr><tr><td><p>Client</p></td><td><p>Virgin Media</p></td></tr><tr><td><p>Organization</p></td><td><p>Liberty Global</p></td></tr><tr><td><p>Technology</p></td><td><p><strong>Salesforce</strong></p></td></tr><tr><td><p>Testing Approach</p></td><td><p>Manual and Automation</p></td></tr><tr><td><p>Tools Used</p></td><td><p><strong>Quality Center, ALM</strong>, BDD-Cucumber, Jenkins, GIT</p></td></tr><tr><td><p>Role</p></td><td><p><strong>Onsite Test Lead(Amsterdam-Europe)</strong></p></td></tr><tr><td><p>Duration</p></td><td><p>July 2013 to January 2017</p></td></tr></table><p><strong>Project Description:</strong></p><p>Virgin Media is a British company which provides mobile telephone, television and broadband internet services to businesses and consumers in the United Kingdom. The overall aim of the project was to improve the customer experience in order to support sales growth using salesforce.om as a sales &amp; marketing tool. </p><p><strong>Responsibilities:</strong></p><ul><li>Involved in Onshore QA Cycle and Functional Analysis of requirements at Client place.</li><li>Conduct End-to-End Analysis of all Business and System/Application Changes to determine the most effective Test Strategy/Approach in accordance with internal SDLC processes.</li><li>Created Test cases Using Element locators and Selenium Webdriver methods. </li><li>Enhanced Test cases using Java programming features and TestNG Annotations.</li><li>Coordination between Business, Client and Offshore team to understand the requirement.</li><li>Responsible for leading and managing the Offshore team and monitoring and tracking team activities.</li><li>Preparation of Test Plan and Test Strategy for System Integration testing and Regression testing.</li><li>Managing the execution of SIT and Regression testing for timely delivery of high-quality deliverables to meet the program goals.</li><li>Ensured smooth coordination and communication among teams in the multi-vendor environment.</li><li>Maintaining Metrics data for Quality Assurance Auditing.</li><li>Project Status Reporting to client and all stakeholders.</li><li>Involved in SIT/UAT Meetings and Defect Triage Meetings.</li></ul><p><strong>Highlights:</strong></p><p>• Added value to the project by effective cost utilization by ramping up and ramping down the resources according to the need and situation of the project.</p><p>• Excellent communication between Business, Client and Offshore team makes the delivery smooth and hassle-free.</p><p><strong>Achievements:</strong></p><p>• Received appreciation from client for smooth communication and managing team well.</p><p>• Received appreciation from higher management for performing excellent role as an onsite coordinator.</p><table><tr><td><p><strong>Cognizant Technology Solution</strong></p></td><td></td><td><p>Kolkata, West Bengal, India</p></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td><p>Project 3: Novo Nordisk </p></td><td></td></tr></table><table><tr><td><p>Title:</p></td><td><ul><li>Novo Nordisk- MARS (Qlikview)</li><li>Novo Nordisk SELAS SAM Impl (Siebel and Mobility)</li><li>Novo Nordisk OBIEE (OBI)</li></ul></td></tr><tr><td><p>Client:</p></td><td><p>A leading Pharmaceutical Company of Europe</p></td></tr><tr><td><p>Domain:</p></td><td><p>Life Science </p></td></tr><tr><td><p>Technology:</p></td><td><p>Siebel CRM, OBIEE, Qlikview and Mobility</p></td></tr><tr><td><p>Language:</p></td><td><p>SQL &amp; PL/SQL in Oracle</p></td></tr><tr><td><p>Database:</p></td><td><p>Oracle 10g</p></td></tr><tr><td><p>Role:</p></td><td><p>Team Lead(Off-shore)</p></td></tr><tr><td><p>Tools: </p></td><td><p>HP Quality Center Test Management Tool, SQL Plus and SQL Developer, MS Access</p></td></tr><tr><td><p>Team Size:</p></td><td><p>8 members</p></td></tr><tr><td><p>Duration</p></td><td><p>Nov 2009 to June 2013</p></td></tr></table><p><strong>Project Description:</strong></p><p>Novo Nordisk-SELAS has an existing unified SalesForce Automation (SFA) and Business Intelligence (BI) solution called SELAS. iSELAS is a mobile extension of the SELAS solution in iPAD. The project consists of Change Requests and the resolutions of existing defects in all the streams like Siebel, OBIEE and Mobility.</p><p><strong>Responsibilities:</strong></p><p>•. As Siebel tester responsible for understanding and analysing the functional processes and business scenarios.</p><p>•. Performed GUI testing of Siebel application upon upgradation from Siebel v7.8 to v8.0. to Open UI. This involved testing the data displayed, testing the layouts of the screens and views and also entities like Pickapplets, MVG applets, Static Picklists.</p><p>•. Performed System Integration testing to verify the interaction between the Siebel system and other systems. </p><p>• Verified the mapping of the fields on the interface screen in Siebel system.</p><p>• Interaction with client for requirement gathering, scenario walk-through and testing status.</p><p>• Confirm the testing Scope and preparation of System Test Plan.</p><p>• Design Test Cases and peer review the deliverables in Quality Centre 9.0 and 11.0(ALM).</p><p>• Developed SQL queries for querying data against the database for data validation of standardized report in OBI/Qlikview testing.</p><p>• Create Adhoc report or Custom Report in OBI to test the data.</p><p>• Execute test case and track all the defects and manage them.</p><p>• After project release completions prepare case study and lessons learned.</p><p><strong>Highlights:</strong></p><p>• Provided Several Training Sessions on QlikView and OBIEE capabilities to new team members which increased the knowledge of the team and helps for better delivery of the project.</p><p><strong>Achievements:</strong></p><p>• Received ‘Pride of the Year 2013’ award for excellent performance.</p><p><br/>[] </p><p><strong>EMAIL:</strong> </p><p>423631220suchandra.antara@gmail.com </p><p><strong>LOCATION:</strong> </p><p>New South Wales </p><p><strong>NAME:</strong> </p><p>Suchandra </p><p><strong>PHONENUMBER:</strong> </p><p>+61 423631220 </p><p><br/>[] </p></span>
+ 		</div>
+    </div>
+  </div>
+  </div>      
+</body>
+</html>
